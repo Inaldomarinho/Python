@@ -7,5 +7,5 @@ O mesmo possui um repositório próprio, basta clickar no link ao lado para aces
 
 ## Sorteador
 
-Foi um programa desenvolvido para sortear um amigo secreto e enviar via email quem é o amigo secreto de cada pessoa.
+Foi um programa desenvolvido para sortear um amigo secreto e enviar via email quem é o amigo secreto de cada pessoa. Que atualmente possui uma versão 2.0 que foi produzida utilizando o PYQT. 
 
